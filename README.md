@@ -1,8 +1,5 @@
 # Credit-Card-Default-Prediction
 
-## Background
-
-
 ## Problem Statement
 *New System to be built by the Bank*
 

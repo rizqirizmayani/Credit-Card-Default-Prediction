@@ -1,4 +1,4 @@
-# Credit-Card-Default-Prediction
+# Credit Card Default Prediction
 
 ## Problem Statement
 *New System to be built by the Bank*
